@@ -30,7 +30,7 @@ function App() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Memder
+              Learn Chakra
             </Link>
           </VStack>
         </Grid>
